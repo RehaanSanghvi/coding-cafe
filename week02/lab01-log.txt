@@ -1,0 +1,45 @@
+126 pwd
+127 ls
+128 ls -a
+129 mkdir coding-cafe
+130 cd coding-cafe
+131 mkdir week01 week02
+132 touch README.md
+133 cd week02
+134 touch notes.md
+135 cd ~
+136 ls coding-cafe/week02
+137 cd coding-cafe/week02
+138 cp README.md README-backup.md
+139 mv README-backup.md week01/
+140 cd week01
+141 mv README-backup.md old-readme.md
+142 ls
+143 rm old-readme.md
+144 echo $PATH
+145 which python3
+146 which pip
+147 which ls
+148 pyton3
+149 cd ~/coding-cafe
+150 python3 -m venv .venv
+151  ls
+152  ls -a
+153  source .venv/bin/activate
+154  which python3  155  pip list
+156  pip install requests
+157  pip list
+158  deactivate
+159  which python3
+161  man ls
+162  ls -h
+163  ls
+164  man ls -h
+165  man man
+166  cd cod
+167  cd cod
+168  cd ..
+169  history
+169  history
+170  python3
+
