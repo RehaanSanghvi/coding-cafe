@@ -9,3 +9,8 @@
 7. It printed commit mode and 7 file names.
 8. The first 7 characters are 370cfbd. 
 9. Checked status —> added to stage —> committed —> checked log.
+10. Because it was pushed separately.
+11. It authenticated that the user has access to the account
+12. Now I can see the files and folders I pushed.
+13. No it did not change thr history in anyway.
+14. Private means only my collaborators can see while if you are not on github you cannot create a repository at all.
